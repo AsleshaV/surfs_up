@@ -40,7 +40,8 @@ December Temperature Data: Deliverable 2 results
 - From the June and December moth data analysis, there is no significant difference in wetha er which would effect the business.
 
 - I would suggest to run an extra query on temperature observtaions for each quarter of the year, so that we can get an additional factors which would effect the business.
-And also running a query to look at the precipitation for each month would be a good option too as it less crowded during raining weather conditions which may effect the business revenues.
+
+- And also running a query to look at the precipitation for each month would be a good option too as it less crowded during raining weather conditions which may effect the business revenues.
 
 - Gathering more data for choosing specific location for the business to attract the potiential visitors and running an additional queries on weather analysis in a broad way would be beneficial too.
 
